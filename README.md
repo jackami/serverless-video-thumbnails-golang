@@ -1,0 +1,1 @@
+# serverless-video-thumbnails-golang
